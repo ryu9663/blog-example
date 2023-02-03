@@ -1,0 +1,21 @@
+// .header {
+//   border-bottom: 1px solid gray;
+//   height: 80px;
+//   padding: 10px;
+//   display: flex;
+//   flex-direction: row;
+//   &_logo {
+//     margin-left: 100px;
+//     background: palegreen;
+//   }
+// }
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+}
